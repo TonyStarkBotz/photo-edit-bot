@@ -217,10 +217,10 @@ if __name__ == "__main__":
     # Initialize the Client
     app = Client(
         "PhotoEditorBot",
-        api_id="your_api_id",  # Replace with your API ID
-        api_hash="your_api_hash",  # Replace with your API Hash
+        api_id="27064328",  # Replace with your API ID
+        api_hash="7be1392c2fe5ebf4fc3228706fbfb504",  # Replace with your API Hash
         bot_token="your_bot_token"  # Replace with your Bot Token
-        RemoveBG_API = environ.get("RemoveBG_API", "")
+        RemoveBG_API = environ.get("RemoveBG_API", "HGuDCmVwx1AAUZ3LSFgNzWFK")
     )
 
     # Run the bot
